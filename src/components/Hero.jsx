@@ -1,5 +1,3 @@
-import { logo } from '../assets'
-
 const Hero = () => {
   return (
     <header class="mt-10 w-full flex justify-center items-center flex-col">
